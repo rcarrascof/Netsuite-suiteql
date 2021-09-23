@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testNetSuite", "testNetSuite\testNetSuite.csproj", "{3AD18489-7A75-41A3-9B89-D81A725D8D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD18489-7A75-41A3-9B89-D81A725D8D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD18489-7A75-41A3-9B89-D81A725D8D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD18489-7A75-41A3-9B89-D81A725D8D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD18489-7A75-41A3-9B89-D81A725D8D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2BB04A2-2782-428A-81AA-4D5F6D42EB74}
+	EndGlobalSection
+EndGlobal
